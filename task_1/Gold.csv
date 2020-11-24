@@ -1,0 +1,452 @@
+Benchmark,"Hardware Vendor	",System,"# Cores","# Chips","# Cores Per Chip","Processor_MHz","Base Copies",Result,Baseline,Published
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6126)",24,2,12,2600,48,1360,1290,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6130)",32,2,16,2100,64,1540,1450,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6134)",16,2,8,3200,32,1060,1000,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6136)",24,2,12,3000,48,1480,1410,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6138)",40,2,20,2000,80,1790,1700,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6140)",36,2,18,2300,72,1780,1690,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6148)",40,2,20,2400,80,1950,1850,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6150)",36,2,18,2700,72,1940,1850,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R360 F4 (Intel Xeon Gold 6152)",44,2,22,2100,88,2020,1920,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6126)",24,2,12,2600,48,1360,1290,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6130)",32,2,16,2100,64,1540,1450,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6134)",16,2,8,3200,32,1060,1000,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6136)",24,2,12,3000,48,1480,1410,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6138)",40,2,20,2000,80,1790,1700,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6140)",36,2,18,2300,72,1780,1690,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6148)",40,2,20,2400,80,1950,1850,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6150)",36,2,18,2700,72,1940,1850,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos R380 F4 (Intel Xeon Gold 6152)",44,2,22,2100,88,2020,1920,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6126)",24,2,12,2600,48,1360,1290,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6130)",32,2,16,2100,64,1500,1420,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6134)",16,2,8,3200,32,1060,1000,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6136)",24,2,12,3000,48,1480,1410,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6138)",36,2,18,2300,72,1740,1660,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6138)",40,2,20,2000,80,1790,1700,Oct-2017
+CINT2006rate,"Acer Incorporated","Altos W2000h-W370h F4 (Intel Xeon Gold 6138)",40,2,20,2400,80,1930,1840,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 5118, 2.30GHz)",24,2,12,2300,48,0,1200,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,1430,1350,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6138, 2.00GHz)",40,2,20,2000,80,1860,1770,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6140, 2.30GHz)",36,2,18,2300,72,1840,1740,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6144, 3.50 GHz)",16,2,8,3500,32,1160,1100,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6146, 3.20 GHz)",24,2,12,3200,48,1590,1510,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6148, 2.40 GHz)",40,2,20,2400,80,1990,1900,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",36,2,18,2700,72,2020,1930,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6152, 2.10 GHz)",44,2,22,2100,88,2030,1930,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",36,2,18,3000,72,2190,2100,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 5115, 2.40GHz)",20,2,10,2400,40,1020,966,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 5118, 2.30GHz)",24,2,12,2300,48,1190,1120,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 5120, 2.20GHz)",28,2,14,2200,56,1330,1260,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 5122, 3.60GHz)",8,2,4,3600,16,585,551,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6126, 2.60GHz)",24,2,12,2600,48,1430,1350,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6128 3.40GHz)",12,2,6,3400,24,866,819,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6130, 2.10GHz)",32,2,16,2100,64,1620,1530,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6132, 2.60GHz)",28,2,14,2600,56,1620,1530,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6134, 3.20GHz)",16,2,8,3200,32,1120,1060,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6136, 3.00GHz)",24,2,12,3000,48,1570,1480,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6138, 2.00GHz)",40,2,20,2000,80,1900,1800,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6140, 2.00GHz)",36,2,18,2300,72,1880,1780,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6142, 2.60GHz)",32,2,16,2600,64,1790,1700,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6144, 3.50GHz)",16,2,8,3500,32,1180,1110,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6146, 3.20GHz)",24,2,12,3200,48,1610,1520,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6148, 2.40 GHz)",40,2,20,2400,80,2040,1940,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Gold 6154, 3.00GHz)",36,2,18,3000,72,2180,2080,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 5115, 2.40GHz)",20,2,10,2400,40,1050,998,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 5118, 2.30GHz)",24,2,12,2300,48,1190,1120,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 5120, 2.20GHz)",28,2,14,2200,56,1340,1260,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 5120, 2.20GHz)",28,2,14,2200,56,1330,1260,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 5122, 3.60GHz)",8,2,4,3600,16,584,549,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6126, 2.60GHz)",24,2,12,2600,48,1430,1350,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6128, 3.40GHz)",12,2,6,3400,24,869,818,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6130, 2.10GHz)",32,2,16,2100,64,1620,1540,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6132, 2.60GHz)",28,2,14,2600,56,1620,1530,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6134, 3.20GHz)",16,2,8,3200,32,1120,1060,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6134M, 3.20GHz)",16,2,8,3200,32,1120,1060,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6136, 3.00GHz)",24,2,12,3000,48,1580,1490,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6138, 2.00GHz)",40,2,20,2000,80,1920,1820,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6140, 2.00GHz)",36,2,18,2300,72,1900,1800,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6140, 2.30GHz)",36,2,18,2300,72,1900,1800,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6140M, 2.30GHz)",36,2,18,2300,72,1890,1800,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6142, 2.60GHz)",32,2,16,2600,64,1830,1730,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6142M 2.60 GHz)",32,2,16,2600,64,1840,1740,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6144, 3.50GHz)",16,2,8,3500,32,1180,1110,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6148, 2.40GHz)",40,2,20,2400,80,2080,1980,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6150, 2.70GHz)",36,2,18,2700,72,2070,1970,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6152, 2.10GHz)",44,2,22,2100,88,2120,2020,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Gold 6154, 3.00GHz)",36,2,18,3000,72,2200,2100,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 5115, 2.40GHz)",40,4,10,2400,80,2010,1900,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 5118 2.30GHz)",48,4,12,2300,96,2380,2240,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 5120 2.20GHz)",56,4,14,2200,112,2670,2510,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 5122 3.60GHz)",16,4,4,3600,32,1170,1100,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6126, 2.60GHz)",48,4,12,2600,96,2760,2610,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6128 3.40GHz)",24,4,6,3400,48,1730,1630,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6130 2.10GHz)",64,4,16,2100,128,3200,3040,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6132 2.60GHz)",56,4,14,2600,112,3200,3040,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6134 3.20GHz)",32,4,8,3200,64,2240,2110,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6134M, 3.20GHz)",32,4,8,3200,64,2230,2110,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6136 3.00GHz)",48,4,12,3000,96,3050,2880,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6138, 2.00GHz)",80,4,20,2000,160,3650,3460,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6140, 2.30GHz)",72,4,18,2300,144,3720,3530,Aug-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6140M, 2.30GHz)",72,4,18,2300,144,3680,3500,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6142 2.60GHz)",64,4,16,2600,128,3540,3360,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6142M, 2.60GHz)",64,4,16,2600,128,3560,3380,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6144 3.50GHz)",32,4,8,3500,64,2330,2200,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6146 3.20GHz)",48,4,12,3200,96,3140,2980,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6148 2.40GHz)",80,4,20,2400,160,4020,3820,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6150 2.70GHz)",72,4,18,2700,144,3950,3770,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6152 2.10GHz)",88,4,22,2100,176,4110,3920,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C480 M5 (Intel Xeon Gold 6154 3.00GHz)",72,4,18,3000,144,4240,4060,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5115, 2.40 GHz)",20,2,10,2400,40,998,955,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,1200,1140,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,1200,1140,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,1310,1250,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,1310,1250,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,506,481,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,516,490,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,580,544,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6126, 2.60 GHz)",24,2,12,2600,48,1360,1280,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6126, 2.60 GHz)",24,2,12,2600,48,1360,1280,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6126F, 2.60 GHz)",24,2,12,2600,48,1330,1230,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6126F, 2.60 GHz)",24,2,12,2600,48,1330,1230,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6128, 3.40 GHz)",12,2,6,3400,24,856,805,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6130, 2.10 GHz)",32,2,16,2100,64,1600,1520,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6134, 3.20 GHz)",16,2,8,3200,32,1030,979,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6138, 2.00 GHz)",40,2,20,2000,80,1820,1730,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6138F, 2.00 GHz)",40,2,20,2000,80,1840,1750,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6142, 2.60 GHz)",32,2,16,2600,64,1740,1650,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6142, 2.60 GHz)",32,2,16,2600,64,1700,1620,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6144, 3.50 GHz)",16,2,8,3500,32,1100,1040,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6146, 3.20 GHz)",24,2,12,3200,48,1540,1460,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6148F, 2.40 GHz)",40,2,20,2400,80,1990,1900,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6150, 2.70 GHz)",36,2,18,2700,72,1950,1850,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Gold 6150, 2.70 GHz)",36,2,18,2700,72,1950,1850,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 5115, 2.40 GHz)",20,2,10,2400,40,994,952,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,1170,1120,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,573,544,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6126, 2.60 GHz)",24,2,12,2600,48,1360,1290,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6136, 3.00 GHz)",24,2,12,3000,48,1510,1430,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6136, 3.00 GHz)",24,2,12,3000,48,1500,1420,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6140, 2.30 GHz)",36,2,18,2300,72,1850,1760,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6142, 2.60 GHz)",32,2,16,2600,64,1760,1680,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6148, 2.40 GHz)",40,2,20,2400,80,1990,1900,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Gold 6152, 2.10 GHz)",44,2,22,2100,88,2020,1920,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 5115, 2.40 GHz)",20,2,10,2400,40,1010,963,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,1190,1140,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,1340,1280,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,1330,1270,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,565,536,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6126, 2.60 GHz)",24,2,12,2600,48,1350,1290,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6128, 3.40 GHz)",12,2,6,3400,24,857,809,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6130, 2.10 GHz)",32,2,16,2100,64,1560,1480,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6132, 2.60 GHz)",28,2,14,2600,56,1570,1490,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6136, 3.00 GHz)",24,2,12,3000,48,1510,1430,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6138, 2.00 GHz)",40,2,20,2100,80,1820,1730,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6140, 2.30 GHz)",36,2,18,2300,72,1790,1700,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6142, 2.60 GHz)",32,2,16,2600,64,1710,1620,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6148, 2.40 GHz)",40,2,20,2400,80,1940,1850,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6150, 2.70 GHz)",36,2,18,2700,72,1930,1840,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Gold 6152, 2.10 GHz)",44,2,22,2100,88,2020,1920,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R440 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,581,547,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R440 (Intel Xeon Gold 6152, 2.10 GHz)",44,2,22,2100,88,0,1930,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R540 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,0,544,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R540 (Intel Xeon Gold 6138, 2.00 GHz)",40,2,20,2000,80,0,1730,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 5115, 2.40 GHz)",20,2,10,2400,40,0,976,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,1200,1140,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,1350,1290,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,571,541,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6126, 2.60 GHz)",24,2,12,2600,48,1400,1320,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6128, 3.40 GHz)",12,2,6,3400,24,856,809,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6130, 2.10 GHz)",32,2,16,2100,64,1600,1510,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6132, 2.60 GHz)",28,2,14,2600,56,1590,1510,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6134, 3.20 GHz)",16,2,8,3200,32,1100,1040,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6136, 3.00 GHz)",24,2,12,3000,48,0,1460,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6138, 2.00 GHz)",40,2,20,2000,80,1880,1780,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6140, 2.30 GHz)",36,2,18,2300,72,1860,1770,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6142, 2.60 GHz)",32,2,16,2600,64,1800,1710,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6144, 3.50 GHz)",16,2,8,3500,32,0,1120,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6146, 3.20 GHz)",24,2,12,3200,48,0,1540,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6148, 2.40 GHz)",40,2,20,2400,80,0,1950,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6150, 2.70 GHz)",36,2,18,2700,72,2020,1930,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6152, 2.10 GHz)",44,2,22,2100,88,2090,1990,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Gold 6154, 3.00 GHz)",36,2,18,3000,72,0,2040,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5115, 2.40 GHz)",20,2,10,2400,40,0,972,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,0,1140,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5118, 2.30 GHz)",24,2,12,2300,48,0,1110,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5119T, 1.90 GHz)",28,2,14,1900,56,0,1180,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5120, 2.20 GHz)",28,2,14,2200,56,0,1280,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5120T, 2.20 GHz)",28,2,14,2200,56,0,1260,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,0,540,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,0,540,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6126, 2.60 GHz)",24,2,12,2600,48,0,1280,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6126T, 2.60 GHz)",24,2,12,2600,48,0,1320,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6128, 3.40 GHz)",12,2,6,3400,24,0,809,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6130, 2.10 GHz)",32,2,16,2100,64,0,1510,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6130T, 2.10 GHz)",32,2,16,2100,64,0,1520,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6132, 2.60 GHz)",28,2,14,2600,56,0,1510,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6134, 3.20 GHz)",16,2,8,3200,32,0,1030,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6136, 3.00 GHz)",24,2,12,3000,48,0,1450,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6138, 2.00 GHz)",40,2,20,2000,80,0,1760,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6138T, 2.00 GHz)",40,2,20,2100,80,0,1750,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6140, 2.30 GHz)",36,2,18,2300,72,0,1760,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6142, 2.60 GHz)",32,2,16,2600,64,0,1690,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6144, 3.50 GHz)",16,2,8,3500,32,0,1090,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6146, 3.20 GHz)",24,2,12,3200,48,0,1500,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6148, 2.40 GHz)",40,2,20,2400,80,0,1950,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6150, 2.70 GHz)",36,2,18,2700,72,0,1920,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6152, 2.10 GHz)",44,2,22,2100,88,0,1970,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Gold 6154, 3.00 GHz)",36,2,18,3000,72,0,2050,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 5115, 2.40 GHz)",40,4,10,2400,80,1940,1840,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 5118, 2.30 GHz)",48,4,12,2300,96,2330,2200,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 5120, 2.20 GHz)",56,4,14,2200,112,2610,2460,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 5122, 3.60 GHz)",16,4,4,3600,32,1150,1080,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6126, 2.60 GHz)",48,4,12,2600,96,2660,2520,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6128, 3.40 GHz)",24,4,6,3400,48,1690,1600,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6130, 2.10 GHz)",64,4,16,2100,128,3080,2920,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6132, 2.60 GHz)",56,4,14,2600,112,3090,2930,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6134, 3.20 GHz)",32,4,8,3200,64,2150,2030,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6136, 3.00 GHz)",48,4,12,3000,96,3040,2860,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6138, 2.00 GHz)",80,4,20,2000,160,3530,3340,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6140, 2.30 GHz)",72,4,18,2300,144,3560,3370,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6142, 2.60 GHz)",64,4,16,2600,128,3450,3280,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6144, 3.50 GHz)",32,4,8,3500,64,2260,2130,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6146, 3.20 GHz)",48,4,12,3200,96,3090,2920,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6148, 2.40 GHz)",80,4,20,2400,160,3910,3730,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6150, 2.70 GHz)",72,4,18,2700,144,3900,3710,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6152, 2.10 GHz)",88,4,22,2100,176,4030,3820,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R940 (Intel Xeon Gold 6154, 3.00 GHz)",72,4,18,3000,144,4230,4040,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge T440 (Intel Xeon Gold 5122, 3.60 GHz)",8,2,4,3600,16,571,541,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 5115, 2.40GHz",20,2,10,2400,40,0,980,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 5118, 2.30GHz",24,2,12,2300,48,0,1160,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 5120, 2.20GHz",28,2,14,2200,56,0,1310,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 5122, 3.60GHz",8,2,4,3600,16,0,547,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6126, 2.60GHz",24,2,12,2600,48,0,1310,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6128, 3.40GHz",12,2,6,3400,24,0,822,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6130, 2.10GHz",32,2,16,2100,64,0,1560,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6132, 2.60GHz",28,2,14,2600,56,0,1540,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6134, 3.20GHz",16,2,8,3200,32,0,1060,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6136, 3.00GHz",24,2,12,3000,48,0,1480,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6138, 2.00GHz",40,2,20,2000,80,0,1770,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6140, 2.30GHz",36,2,18,2300,72,0,1760,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6142, 2.60GHz",32,2,16,2600,64,0,1710,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6144, 3.50GHz",16,2,8,3500,32,0,1120,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6146, 3.20GHz",24,2,12,3200,48,0,1540,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6148, 2.40GHz",40,2,20,2400,80,0,1940,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6150, 2.70GHz",36,2,18,2700,72,0,1900,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6152, 2.10GHz",44,2,22,2100,88,2090,1990,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Gold 6154, 3.00GHz",36,2,18,3000,72,0,2090,Sep-2017
+CINT2006rate,H3C,"H3C UniServer R4900 G3",36,2,18,2300,72,1830,1740,Aug-2017
+CINT2006rate,H3C,"H3C UniServer R4900 G3 (Intel Xeon Gold 6140)",36,2,18,2300,72,1870,1770,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5115)",20,2,10,2400,40,1040,987,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5115)",20,2,10,2400,40,1020,949,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5118)",24,2,12,2300,48,1210,1150,Aug-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5118)",24,2,12,2300,48,1180,1090,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5120)",28,2,14,2200,56,1360,1290,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5120)",28,2,14,2200,56,1330,1240,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 5122)",8,2,4,3600,16,604,565,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6126)",24,2,12,2600,48,1430,1330,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6128)",12,2,6,3400,24,884,827,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6130)",32,2,16,2100,64,1580,1480,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6132)",28,2,14,2600,56,1620,1520,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6134)",16,2,8,3200,32,1130,1050,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6136)",24,2,12,3000,48,1570,1470,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6138)",40,2,20,2000,80,1840,1740,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6140)",36,2,18,2300,72,1850,1740,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6142)",32,2,16,2600,64,1800,1690,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6148)",40,2,20,2400,80,2040,1930,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6150)",36,2,18,2700,72,2040,1940,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6152)",44,2,22,2100,88,2090,1970,Jul-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Gold 6154)",36,2,18,3000,72,2180,2070,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5115)",20,2,10,2400,40,1040,987,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5115)",20,2,10,2400,40,1020,947,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5118)",24,2,12,2300,48,1210,1150,Aug-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5118)",24,2,12,2300,48,1180,1090,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5120)",28,2,14,2200,56,1360,1290,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5120)",28,2,14,2200,56,1330,1240,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 5122)",8,2,4,3600,16,604,564,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6126)",24,2,12,2600,48,1430,1330,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6128)",12,2,6,3400,24,885,828,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6130)",32,2,16,2100,64,1580,1480,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6132)",28,2,14,2600,56,1620,1520,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6134)",16,2,8,3200,32,1130,1050,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6136)",24,2,12,3000,48,1570,1470,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6138)",40,2,20,2000,80,1840,1740,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6140)",36,2,18,2300,72,1850,1740,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6142)",32,2,16,2600,64,1800,1700,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6144)",16,2,8,3500,32,1140,1090,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6148)",40,2,20,2400,80,2050,1930,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6150)",36,2,18,2700,72,2040,1940,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6152)",44,2,22,2100,88,2090,1960,Jul-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Gold 6154)",36,2,18,3000,72,2180,2070,Jul-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 5120)",56,4,14,2200,112,2620,2470,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 5122)",16,4,4,3600,32,1160,1090,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6126)",48,4,12,2600,96,2750,2600,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6126T)",48,4,12,2600,96,2720,2580,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6130)",64,4,16,2100,128,3080,2920,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6130T)",64,4,16,2100,128,3130,2970,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6134M)",32,4,8,3200,64,2210,2080,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6136)",48,4,12,3000,96,3040,2870,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6138)",80,4,20,2000,160,3550,3390,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6138T)",80,4,20,2000,160,3560,3390,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6140M)",72,4,18,2300,144,3630,3450,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6142)",64,4,16,2600,128,3420,3240,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6148)",80,4,20,2400,160,3960,3780,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6150)",72,4,18,2700,144,3940,3760,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6152)",88,4,22,2100,176,3970,3790,Sep-2017
+CINT2006rate,Huawei,"Huawei 2488 V5 (Intel Xeon Gold 6154)",72,4,18,3000,144,4190,4000,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5115)",20,2,10,2400,40,1040,988,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5115)",20,2,10,2400,40,1020,948,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5118)",24,2,12,2300,48,1210,1150,Aug-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5118)",24,2,12,2300,48,1180,1090,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5120)",28,2,14,2200,56,1360,1290,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5120)",28,2,14,2200,56,1330,1240,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 5122)",8,2,4,3600,16,604,564,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6126)",24,2,12,2600,48,1430,1330,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6128)",12,2,6,3400,24,885,828,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6130)",32,2,16,2100,64,1580,1480,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6132)",28,2,14,2600,56,1620,1520,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6134)",16,2,8,3200,32,1130,1050,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6136)",24,2,12,3000,48,1570,1470,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6138)",40,2,20,2000,80,1840,1740,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6140)",36,2,18,2300,72,1850,1740,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6142)",32,2,16,2600,64,1800,1690,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6148)",40,2,20,2400,80,2050,1940,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6150)",36,2,18,2700,72,2040,1930,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6152)",44,2,22,2100,88,2090,1970,Jul-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Gold 6154)",36,2,18,3000,72,2180,2070,Jul-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1870,1770,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.00 GHz, Intel Xeon Gold 6138T)",40,2,20,2000,80,1810,1700,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1610,1530,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1580,1510,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1600,1530,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6152)",44,2,22,2100,88,2010,1910,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1310,1220,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1330,1270,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1180,1130,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.30 GHz, Intel Xeon Gold 6140)",36,2,18,2300,72,1850,1750,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1010,964,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.40 GHz, Intel Xeon Gold 6148)",40,2,20,2400,80,2020,1910,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1340,1270,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.60 GHz, Intel Xeon Gold 6142)",32,2,16,2600,64,1780,1680,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.70 GHz, Intel Xeon Gold 6150)",36,2,18,2700,72,2010,1900,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (3.00 GHz, Intel Xeon Gold 6136)",24,2,12,3000,48,1550,1460,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (3.20 GHz, Intel Xeon Gold 6134)",16,2,8,3200,32,1110,1040,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,569,540,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1900,1780,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1630,1550,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1630,1550,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.10 GHz, Intel Xeon Gold 6152)",44,2,22,2100,88,2070,1960,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1340,1280,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1350,1290,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1200,1150,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.30 GHz, Intel Xeon Gold 6140)",36,2,18,2300,72,1870,1800,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1020,972,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.40 GHz, Intel Xeon Gold 6148)",40,2,20,2400,80,2040,1960,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1410,1320,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.60 GHz, Intel Xeon Gold 6142)",32,2,16,2600,64,1810,1700,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.70 GHz, Intel Xeon Gold 6150)",36,2,18,2700,72,2040,1930,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (3.00 GHz, Intel Xeon Gold 6136)",24,2,12,3000,48,1560,1460,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (3.20 GHz, Intel Xeon Gold 6134)",16,2,8,3200,32,1110,1040,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,579,542,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.00 GHz, Intel Xeon Gold 6138)",80,4,20,2000,160,3670,3460,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.10 GHz, Intel Xeon Gold 6130)",64,4,16,2100,128,3140,2950,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.10 GHz, Intel Xeon Gold 6130T)",64,4,16,2100,128,3130,2980,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.10 GHz, Intel Xeon Gold 6152)",88,4,22,2100,176,3990,3790,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.20 GHz, Intel Xeon Gold 5120)",56,4,14,2200,112,2660,2540,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.20 GHz, Intel Xeon Gold 5120T)",56,4,14,2200,112,2640,2520,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.30 GHz, Intel Xeon Gold 5118)",48,4,12,2300,96,2390,2270,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.30 GHz, Intel Xeon Gold 6140)",72,4,18,2300,144,3640,3440,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.40 GHz, Intel Xeon Gold 5115)",40,4,10,2400,80,1980,1890,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.40 GHz, Intel Xeon Gold 6148)",80,4,20,2400,160,3960,3750,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.60 GHz, Intel Xeon Gold 6126)",48,4,12,2600,96,2700,2550,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.60 GHz, Intel Xeon Gold 6142)",64,4,16,2600,128,3510,3320,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (2.70 GHz, Intel Xeon Gold 6150)",72,4,18,2700,144,3980,3780,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (3.00 GHz, Intel Xeon Gold 6136)",48,4,12,3000,96,3030,2850,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (3.20 GHz, Intel Xeon Gold 6134)",32,4,8,3200,64,2180,2040,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN850 (3.60 GHz, Intel Xeon Gold 5122)",16,4,4,3600,32,1150,1080,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1860,1750,Jul-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1580,1510,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1600,1530,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1320,1260,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1330,1270,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1190,1130,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1010,966,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1380,1310,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.60 GHz, Intel Xeon Gold 6126T)",24,2,12,2600,48,1400,1310,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,591,555,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1860,1760,Jul-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1590,1520,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1600,1530,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1330,1260,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1330,1270,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1190,1130,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1010,967,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1380,1320,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.60 GHz, Intel Xeon Gold 6126T)",24,2,12,2600,48,1400,1310,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,593,555,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1880,1780,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1610,1530,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1620,1550,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.10 GHz, Intel Xeon Gold 6152)",44,2,22,2100,88,2040,1940,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1330,1270,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1340,1280,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1200,1150,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.30 GHz, Intel Xeon Gold 6140)",36,2,18,2300,72,1850,1770,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1020,973,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.40 GHz, Intel Xeon Gold 6148)",40,2,20,2400,80,2040,1940,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1400,1330,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.60 GHz, Intel Xeon Gold 6126T)",24,2,12,2600,48,1380,1310,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.60 GHz, Intel Xeon Gold 6142)",32,2,16,2600,64,1760,1670,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.70 GHz, Intel Xeon Gold 6150)",36,2,18,2700,72,2020,1930,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (3.00 GHz, Intel Xeon Gold 6136)",24,2,12,3000,48,1540,1460,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (3.00 GHz, Intel Xeon Gold 6154)",36,2,18,3000,72,2140,2030,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (3.20 GHz, Intel Xeon Gold 6134)",16,2,8,3200,32,1100,1040,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,579,544,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1880,1780,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.00 GHz, Intel Xeon Gold 6138T)",40,2,20,2000,80,1820,1730,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1620,1550,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1630,1560,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6152)",44,2,22,2100,88,2050,1950,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1340,1280,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1340,1280,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1200,1150,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.30 GHz, Intel Xeon Gold 6140)",36,2,18,2300,72,1870,1790,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1020,969,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.40 GHz, Intel Xeon Gold 6148)",40,2,20,2400,80,2050,1950,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1400,1330,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.60 GHz, Intel Xeon Gold 6126T)",24,2,12,2600,48,1380,1310,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.60 GHz, Intel Xeon Gold 6142)",32,2,16,2600,64,1790,1700,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.70 GHz, Intel Xeon Gold 6150)",36,2,18,2700,72,2030,1930,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (3.00 GHz, Intel Xeon Gold 6136)",24,2,12,3000,48,1550,1460,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (3.00 GHz, Intel Xeon Gold 6154)",36,2,18,3000,72,2140,2040,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (3.20 GHz, Intel Xeon Gold 6134)",16,2,8,3200,32,1110,1040,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,578,543,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.00 GHz, Intel Xeon Gold 6138)",80,4,20,2000,160,3770,3610,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.10 GHz, Intel Xeon Gold 6130)",64,4,16,2100,128,3190,2990,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1610,1540,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.10 GHz, Intel Xeon Gold 6152)",88,4,22,2100,176,4060,3830,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.40 GHz, Intel Xeon Gold 5115)",40,4,10,2400,80,2030,1930,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.40 GHz, Intel Xeon Gold 6148)",80,4,20,2400,160,4030,3820,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.60 GHz, Intel Xeon Gold 6126)",48,4,12,2600,96,2760,2600,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.60 GHz, Intel Xeon Gold 6126)",48,4,12,2600,96,2760,2600,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.60 GHz, Intel Xeon Gold 6142)",64,4,16,2600,128,3490,3360,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (2.70 GHz, Intel Xeon Gold 6150)",72,4,18,2700,144,4050,3840,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR850 (3.00 GHz, Intel Xeon Gold 6136)",48,4,12,3000,96,3080,2900,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR950 (2.10 GHz, Intel Xeon Gold 6130T)",64,4,16,2100,128,3260,3110,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR950 (2.60 GHz, Intel Xeon Gold 6126)",48,4,12,2600,96,2790,2650,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR950 (2.60 GHz, Intel Xeon Gold 6126T)",48,4,12,2600,96,2820,2660,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR950 (2.60 GHz, Intel Xeon Gold 6132)",56,4,14,2600,112,3210,3070,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR950 (3.20 GHz, Intel Xeon Gold 6134M)",32,4,8,3200,64,2220,2090,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.00 GHz, Intel Xeon Gold 6138)",40,2,20,2000,80,1880,1760,Jul-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.00 GHz, Intel Xeon Gold 6138T)",40,2,20,2000,80,1810,1700,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.10 GHz, Intel Xeon Gold 6130)",32,2,16,2100,64,1610,1530,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.10 GHz, Intel Xeon Gold 6130T)",32,2,16,2100,64,1610,1540,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.20 GHz, Intel Xeon Gold 5120)",28,2,14,2200,56,1330,1270,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.20 GHz, Intel Xeon Gold 5120T)",28,2,14,2200,56,1340,1280,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.30 GHz, Intel Xeon Gold 5118)",24,2,12,2300,48,1190,1130,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.40 GHz, Intel Xeon Gold 5115)",20,2,10,2400,40,1020,973,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.60 GHz, Intel Xeon Gold 6126)",24,2,12,2600,48,1400,1310,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.60 GHz, Intel Xeon Gold 6126T)",24,2,12,2600,48,1400,1320,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (3.60 GHz, Intel Xeon Gold 5122)",8,2,4,3600,16,590,556,Sep-2017
+CINT2006rate,Supermicro,"SuperServer 1029U-TN10RT (X11DPU , Intel Xeon Gold 5118)",24,2,12,2300,48,1180,1110,Oct-2017
+CINT2006rate,Supermicro,"SuperServer 1029U-TN10RT (X11DPU , Intel Xeon Gold 6148)",40,2,20,2400,80,2090,1990,Oct-2017
+CINT2006rate,Supermicro,"SuperServer 1029U-TR4 (X11DPU , Intel Xeon Gold 6132)",28,2,14,2600,56,1620,1530,Oct-2017
