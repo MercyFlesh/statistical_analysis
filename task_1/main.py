@@ -57,7 +57,7 @@ def main():
         's': s, 'q': q
     })
         
-    print(interval_series_df, end='\n\n')
+    print(interval_series_df)
     
     middles_intervals = list(map(lambda item: np.mean(item), intervals))
     ends_intervals = list(map(lambda item: item[1], intervals))
@@ -67,7 +67,7 @@ def main():
     plt.plot(middles_intervals, m, marker='o')
     plt.grid()
     plt.xlabel('Mhz')
-    plt.ylabel('absolute frequency')
+    plt.ylabel('Absolute frequency')
     plt.title('Polygon absolute frequency')
     plt.show(block=False)
     
@@ -96,8 +96,46 @@ def main():
     plt.grid()
     plt.xlabel('Mhz')
     plt.ylabel('Accumulated absolute frequency')
-    plt.title('Emperic function')
+    plt.title('Emperic distribution function of absolute frequency')
+    plt.show(block=False)
+
+    plt.figure()
+    plt.plot(middles_intervals, p, marker='o')
+    plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Relative frequency')
+    plt.title('Polygon relative frequency')
+    plt.show(block=False)
+
+    plt.figure()
+    plt.bar(middles_intervals, p, width=lengths_intervals, edgecolor='black')
+    plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Relative frequency')
+    plt.title('Histogram relative frequency')
+    plt.show(block=False)
+
+    plt.figure()
+    plt.plot(ends_intervals, q, marker='o')
+    plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Accumulated relative frequency')
+    plt.title('Comulate relative frequency')
+    plt.show(block=False)
+
+    plt.figure()
+    plt.plot([0, middles_intervals[0]], [0, 0], color='blue')
+    for i in range(0, len(middles_intervals)-1):
+        plt.plot([middles_intervals[i], middles_intervals[i+1]], [q[i], q[i]], color='blue')
+   
+    plt.plot([middles_intervals[-1], middles_intervals[-1]+700], [q[-1], q[-1]], color='blue')
+    plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Accumulated relative frequency')
+    plt.title('Emperic distribution function of relative frequency')
     plt.show()
+
+
 
 
 if __name__ == "__main__":
