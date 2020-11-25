@@ -59,10 +59,11 @@ def main():
         
     print(interval_series_df, end='\n\n')
     
-    polynom_x = list(map(lambda x: np.mean(x), intervals))
-    
+    middle_intervals = list(map(lambda item: np.mean(item), intervals))
+    length_intervals = list(map(lambda item: item[1] - item[0], intervals))
+
     plt.figure()
-    plt.plot(polynom_x, m, marker='o')
+    plt.plot(middle_intervals, m, marker='o')
     plt.grid()
     plt.xlabel('Mhz')
     plt.ylabel('absolute frequency')
@@ -70,8 +71,11 @@ def main():
     plt.show(block=False)
     
     plt.figure()
-    plt.hist(m, edgecolor='black')
+    plt.bar(middle_intervals, m, width=length_intervals, edgecolor='black')
     plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Absolute frequency')
+    plt.title('Histogram absolute frequency')
     plt.show()
 
 
