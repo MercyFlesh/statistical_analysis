@@ -59,11 +59,12 @@ def main():
         
     print(interval_series_df, end='\n\n')
     
-    middle_intervals = list(map(lambda item: np.mean(item), intervals))
-    length_intervals = list(map(lambda item: item[1] - item[0], intervals))
+    middles_intervals = list(map(lambda item: np.mean(item), intervals))
+    ends_intervals = list(map(lambda item: item[1], intervals))
+    lengths_intervals = list(map(lambda item: item[1] - item[0], intervals))
 
     plt.figure()
-    plt.plot(middle_intervals, m, marker='o')
+    plt.plot(middles_intervals, m, marker='o')
     plt.grid()
     plt.xlabel('Mhz')
     plt.ylabel('absolute frequency')
@@ -71,11 +72,31 @@ def main():
     plt.show(block=False)
     
     plt.figure()
-    plt.bar(middle_intervals, m, width=length_intervals, edgecolor='black')
+    plt.bar(middles_intervals, m, width=lengths_intervals, edgecolor='black')
     plt.grid()
     plt.xlabel('Mhz')
     plt.ylabel('Absolute frequency')
     plt.title('Histogram absolute frequency')
+    plt.show(block=False)
+
+    plt.figure()
+    plt.plot(ends_intervals, s, marker='o')
+    plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Accumulated absolute frequency')
+    plt.title('Comulate absolute frequency')
+    plt.show(block=False)
+
+    plt.figure()
+    plt.plot([0, middles_intervals[0]], [0, 0], color='blue')
+    for i in range(0, len(middles_intervals)-1):
+        plt.plot([middles_intervals[i], middles_intervals[i+1]], [s[i], s[i]], color='blue')
+   
+    plt.plot([middles_intervals[-1], middles_intervals[-1]+700], [s[-1], s[-1]], color='blue')
+    plt.grid()
+    plt.xlabel('Mhz')
+    plt.ylabel('Accumulated absolute frequency')
+    plt.title('Emperic function')
     plt.show()
 
 
