@@ -46,9 +46,15 @@ def plot_graphs(intervals: list, m: list, s: list, name: str):
     plt.savefig(f'emperical_function_{name}.png')
 
 
+def get_dataframe(csv_name: str, features: list, n: int):
+    df = pd.read_csv(csv_name)
+    df = df[features].sample(n)
+    df.to_csv('sample.csv', index=False)
+    return df
+
+
 def main():
-    df = pd.read_csv('Gold.csv')
-    df = df[['Processor_MHz']].sample(97)
+    df = get_dataframe('Gold.csv', ['Cores', 'Processor_MHz'], 97)
     df_size = len(df)
     
     dict_frequencies = df['Processor_MHz'].value_counts().to_dict()
@@ -59,7 +65,7 @@ def main():
     rel_frequencies = list(map(lambda x: round(x / df_size, 4), abs_frequencies))
     
     df = pd.DataFrame({
-        'Processor_MHz': processor_mhz,
+        'Processor_Mhz': processor_mhz,
         'm': abs_frequencies,
         'p': rel_frequencies
     })
@@ -74,7 +80,7 @@ def main():
     s = [0]
     p = list()
     q = list()
-    
+
     for mhz, absolute in zip(processor_mhz, abs_frequencies):
         if intervals[len(intervals)-1][1] >= mhz:
             m[len(m)-1] += absolute
