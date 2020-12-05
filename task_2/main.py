@@ -77,25 +77,51 @@ def main():
         'μ*': μ
     })
     moments_df.index = moments_df.index + 1
-    
     print(moments_df, end='\n\n')
 
     x_sample_mean = sum(list(map(lambda x, m: x * m, middles, m))) / df_size
-    print(f"Sample mean: {round(x_sample_mean, 5)}")
     assert x_sample_mean == M[0] * h + C, "Error: the sample mean is not equal in two different formulas"
-
-    D = sum(list(map(lambda x_i, m_i: ((x_i - x_sample_mean) ** 2) * m_i, middles, m))) / df_size
-
-    print(f"Sample dispersion: {round(D, 5)}")   
-
-    assert D == round(μ_2 * (h ** 2), 10), "Error: the sample dispersion is not equal in two different formulas"
-
-
-
+    print(f"Sample mean: {round(x_sample_mean, 5)}")
     
+    D = sum(list(map(lambda x_i, m_i: ((x_i - x_sample_mean) ** 2) * m_i, middles, m))) / df_size   
+    assert D == round(μ_2 * (h ** 2), 10), "Error: the sample dispersion is not equal in two different formulas"
+    print(f"Sample dispersion: {round(D, 5)}")
 
+    σ = math.sqrt(D)
 
+    As = (μ_3 * (h ** 3)) / (σ ** 3)
+    Ex = (μ_4 * (h ** 4) / (σ ** 4)) - 3
+    print(f"As: {As}, Ex: {Ex}")
+
+    mM_index = m.index(max(m))
+
+    def mode(m_minus_1, m_plus_1):
+        return intervals[mM_index][0] \
+            + h * (m[mM_index] - m_minus_1) \
+            / (m[mM_index] - m_minus_1 + m[mM_index] - m_plus_1)
+    
+    if mM_index > 0 and mM_index < len(m) - 1:
+        Mo = mode(m[mM_index - 1], m[mM_index + 1])
+    elif mM_index == 0:
+        Mo = mode(0, m[mM_index + 1])
+    else:
+        Mo = mode(m[mM_index - 1], 0)
+
+    for item in s:
+        if item >= df_size/2:
+            me_index = s.index(item)
+            break
+    
+    def median(s_minus_1):
+        return intervals[me_index][0] + (h * ((df_size / 2) - s_minus_1) / m[me_index])
+
+    Me = median(s[me_index - 1]) if me_index != 0 else median(0) 
+    print(f'Mo: {Mo}, Me: {Me}')
+
+    v = (σ / x_sample_mean) * 100
+    print(f"Coef variation: {round(v, 2)}%")
 
     
 if __name__ == "__main__":
     main()
+    
