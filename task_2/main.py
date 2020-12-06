@@ -67,10 +67,10 @@ def main():
     for i in range(1, 5):
         M.append(sum(list(map(lambda m_i, z_i: (m_i * (z_i ** i)) / df_size, m, z))))
 
-    μ_2 = M[1] - (M[0] ** 2)
-    μ_3 = M[2] - (3 * M[1] * M[0]) + (2 * (M[0] ** 3))
-    μ_4 = M[3] - (4 * M[2] * M[0]) + (6 * M[1] * (M[0] ** 2)) - (3 * (M[0] ** 4))
-    μ = [0, μ_2, μ_3, μ_4]
+    μ_2 = (M[1] - (M[0] ** 2)) * (h ** 2)
+    μ_3 = (M[2] - (3 * M[1] * M[0]) + (2 * (M[0] ** 3))) * (h ** 3)
+    μ_4 = M[3] - ((4 * M[2] * M[0]) + (6 * M[1] * (M[0] ** 2)) - (3 * (M[0] ** 4))) * (h ** 4)
+    μ = [0, round(μ_2, 4), round(μ_3, 4), round(μ_4)]
 
     moments_df = pd.DataFrame({
         'M*': M,
@@ -84,14 +84,14 @@ def main():
     print(f"Sample mean: {round(x_sample_mean, 5)}")
     
     D = sum(list(map(lambda x_i, m_i: ((x_i - x_sample_mean) ** 2) * m_i, middles, m))) / df_size   
-    assert D == round(μ_2 * (h ** 2), 10), "Error: the sample dispersion is not equal in two different formulas"
+    assert D == round(μ_2, 10), "Error: the sample dispersion is not equal in two different formulas"
     print(f"Sample dispersion: {round(D, 5)}")
 
     σ = math.sqrt(D)
 
-    As = (μ_3 * (h ** 3)) / (σ ** 3)
-    Ex = (μ_4 * (h ** 4) / (σ ** 4)) - 3
-    print(f"As: {As}, Ex: {Ex}")
+    As = μ_3 / (σ ** 3)
+    Ex = μ_4 / (σ ** 4) - 3
+    print(f"As: {round(As, 4)}, Ex: {round(Ex, 4)}")
 
     mM_index = m.index(max(m))
 
@@ -116,7 +116,7 @@ def main():
         return intervals[me_index][0] + (h * ((df_size / 2) - s_minus_1) / m[me_index])
 
     Me = median(s[me_index - 1]) if me_index != 0 else median(0) 
-    print(f'Mo: {Mo}, Me: {Me}')
+    print(f'Mo: {round(Mo, 4)}, Me: {round(Me, 4)}')
 
     v = (σ / x_sample_mean) * 100
     print(f"Coef variation: {round(v, 2)}%")
